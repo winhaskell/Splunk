@@ -16,3 +16,34 @@ Splunk
 
 Splunk作为企业级的分布式机器数据的平台，拥有强大的分布式配置，包括跨数据中心的集群配置。Splunk提供两种集群，Indexer集群和Search Head集群。
 
+IT Search Engine(它叫Splunk)，对接设备、应用、甚至数据平台(例如Hadoop及其应用)实现IT运营系统的数据分析和展现，它被称为机器数据的引擎。
+Splunk就是机器大数据的分析和运维平台。
+
+Splunk是专门设计给组织和机构使用的设备搜索引擎(Search Engine)，它将雅虎、Google的搜寻技术与概念发扬光大，
+如今组织和机构可以用Splunk来管理任何复杂的 IT 系统，使用Splunk可收集、索引和利用所有应用程序、服务器和设备(物理、虚拟和云中)生成的快速移动型计算机数据。
+      
+Splunk是面向机器数据的全文搜索引擎。提供实时的日志处理和大数据分析，
+基于时间序列建立索引，不限数据源，不限数据格式的集数据采集、存储、分析和可视化的一体化的平台。
+针对操作系统、网络等设备，Splunk都提供了专用的Splunk Apps。Splunk就是机器大数据的分析和运维平台。
+
+
+
+Splunk智能运维实战
+Splunk智能运维实战 作者: [美] 乔史·戴昆（Josh Diakun） / [美] 保罗R·约翰逊（Paul R Johnson） / [美] 德莱克·默克（Derek Mock） 
+出版社: 机械工业出版社
+原作名: Splunk Operational Intelligence Cookbook
+
+Josh Diakun，是IT运营和安全领域的专家，在管理和架构企业级IT环境方面拥有10多年的经验。
+他合伙建立了商业投资公司Discovered Intelligence，同时是Splunk Toronto User Group的创始人之一。
+
+Paul R Johnson，在信息安全、运营和管理领域拥有超过10年的数据智能运维经验。
+他是Discovered Intelligence公司的合伙人，也参与创办了Splunk Toronto User Group。
+
+Derek Mock，是软件开发商和设计师。他在开发和操作大型企业级部署和SaaS应用程序方面拥有超过15年的经验。
+他也参与创办了Splunk Toronto User Group。
+
+
+
+
+
+
